@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🙋‍♀️ We create solutions for carbon neutral life and work
+
 <!--
 
 **Here are some ideas to get you started:**
