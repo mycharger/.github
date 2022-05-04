@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🙋‍♀️ We create software solutions for carbon neutral life and work
-🌈 Our platform connects local energy devices like wallboxes, solar energy resources, batteries and many others to modular value added services
+🙋‍♀️ We create software solutions for carbon neutral life and work.
+🌈 Our platform connects local energy devices like wallboxes, solar energy resources, batteries and many others to modular value added services.
 
 
 <!--
